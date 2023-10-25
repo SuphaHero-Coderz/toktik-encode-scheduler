@@ -1,0 +1,9 @@
+poetry.lock
+.idea/
+__pycache__/
+.venv/
+./samples
+./samples/*
+./chunks
+*.mp4
+*.avi
